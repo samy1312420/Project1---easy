@@ -1,0 +1,21 @@
+#bild-1 {
+    width: 100%;
+    margin-top: 6vh;
+}
+.text-1 {
+    color: rgb(221, 135, 29);
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+    font-size: 30px;
+}
+.text-2 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 10vh;
+}
+.text-3 {
+    color:orange;
+    text-align: center;
+}
