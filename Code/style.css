@@ -51,3 +51,6 @@ button {
 input::placeholder {
   color: red;
 }
+body {
+  background-image: url(./images/bg-pattern-desktop.svg)
+}
